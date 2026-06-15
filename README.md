@@ -69,11 +69,7 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldoAugusta&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GeraldoAugusta&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_NAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
