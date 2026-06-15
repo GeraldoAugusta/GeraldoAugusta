@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geraldo Augusta</h1>
+<h1 align="center">Hi, I'm Geraldo Augusta</h1>
 
 <h3 align="center">
 Data Scientist Enthusiast • Informatics Engineering Student
@@ -10,7 +10,7 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Informatics Engineering Student
 
@@ -24,7 +24,7 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -54,7 +54,7 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeraldoAugusta&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -63,33 +63,23 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 📊 Data Analysis Dashboard
+### Data Analysis Dashboard
 Interactive dashboard for analyzing business and sales performance.
 
-### 🤖 Machine Learning Project
+### Machine Learning Project
 Predictive model development using Python and Scikit-Learn.
 
-### 📈 Data Visualization Project
+### Data Visualization Project
 Transforming raw datasets into meaningful visual insights.
 
-### 🌍 Web Development Project
+### Web Development Project
 Responsive and user-friendly web application development.
 
 ---
 
-## 📚 Certifications
-
-- Dicoding Data Analysis with Python
-- Dicoding Machine Learning
-- Coding Camp by DBS Foundation
-- Google Data Analytics (if available)
-- IBM Data Science (if available)
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/GeraldoAugusta">
