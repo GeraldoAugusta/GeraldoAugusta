@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm I Nyoman Geraldo Minggus Augusta</h1>
+<h1 align="center">Hi 👋, I'm Geraldo Augusta</h1>
 
 <h3 align="center">
-Data Enthusiast • Informatics Student • Aspiring Data Scientist
+Data Scientist Enthusiast • Informatics Engineering Student
 </h3>
 
 <p align="center">
@@ -14,9 +14,9 @@ Passionate about Data Analytics, Machine Learning, and Software Development.
 
 🎓 Informatics Engineering Student
 
-📊 Interested in Data Analytics, Data Science, and Machine Learning
+📊 Interested in Data Science, Data Analyst, and Machine Learning
 
-💻 Currently learning Data Engineering & Advanced Data Analysis
+💻 Currently learning Data Scientist & Advanced Data Analysis
 
 🌱 Always exploring new technologies and improving problem-solving skills
 
@@ -29,7 +29,7 @@ Passionate about Data Analytics, Machine Learning, and Software Development.
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,laravel" />
 </p>
 
 ### Data Science & Analytics
@@ -56,9 +56,24 @@ Passionate about Data Analytics, Machine Learning, and Software Development.
 
 ## 📈 GitHub Statistics
 
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=GeraldoAugusta&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoAugusta&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldoAugusta&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GeraldoAugusta&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
