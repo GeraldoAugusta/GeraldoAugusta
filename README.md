@@ -5,7 +5,7 @@ Data Scientist Enthusiast • Informatics Engineering Student
 </h3>
 
 <p align="center">
-Passionate about Data Analytics, Machine Learning, and Software Development.
+Passionate about Data Scientist, Machine Learning, and Software Development.
 </p>
 
 ---
@@ -29,7 +29,7 @@ Passionate about Data Analytics, Machine Learning, and Software Development.
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,laravel" />
+<img src="https://skillicons.dev/icons?i=python,laravel,html,css,js" />
 </p>
 
 ### Data Science & Analytics
@@ -81,7 +81,7 @@ Passionate about Data Analytics, Machine Learning, and Software Development.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldoAugusta&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
