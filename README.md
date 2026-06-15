@@ -61,28 +61,6 @@ Passionate about Data Scientist, Machine Learning, and Software Development.
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoAugusta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=GeraldoAugusta&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeraldoAugusta&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeraldoAugusta&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GeraldoAugusta&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 Featured Projects
