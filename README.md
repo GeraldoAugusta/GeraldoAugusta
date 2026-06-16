@@ -1,102 +1,126 @@
-<h1 align="center">Hi, I'm Geraldo Augusta</h1>
+<div align="center">
 
-<h3 align="center">
-Data Scientist Enthusiast • Informatics Engineering Student
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Geraldo%20Augusta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20Informatics%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-Passionate about Data Scientist, Machine Learning, and Software Development.
-</p>
-
----
-
-## About Me
-
-🎓 Informatics Engineering Student
-
-📊 Interested in Data Science, Data Analyst, and Machine Learning
-
-💻 Currently learning Data Scientist & Advanced Data Analysis
-
-🌱 Always exploring new technologies and improving problem-solving skills
-
-📍 Indonesia
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,laravel,html,css,js" />
-</p>
-
-### Data Science & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Statistics
-- Data Visualization
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeraldoAugusta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoAugusta&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Featured Projects
-
-### Data Analysis Dashboard
-Interactive dashboard for analyzing business and sales performance.
-
-### Machine Learning Project
-Predictive model development using Python and Scikit-Learn.
-
-### Data Visualization Project
-Transforming raw datasets into meaningful visual insights.
-
-### Web Development Project
-Responsive and user-friendly web application development.
-
----
-
-## Connect With Me
-
-<p align="left">
 <a href="https://github.com/GeraldoAugusta">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+Enthusiast;Machine+Learning+Explorer;Informatics+Engineering+Student;Turning+Data+Into+Insights+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GeraldoAugusta&label=Profile%20Views&color=8b5cf6&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/GeraldoAugusta?label=Followers&style=flat&color=8b5cf6" alt="Followers"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```python
+class GeraldoAugusta:
+    def __init__(self):
+        self.role = "Informatics Engineering Student"
+        self.focus = ["Data Science", "Machine Learning", "Data Analysis"]
+        self.location = "Indonesia 🇮🇩"
+        self.currently_learning = ["Advanced Data Analysis", "Machine Learning"]
+        self.motto = "Turning Data Into Insights and Ideas Into Reality"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
+
+me = GeraldoAugusta()
+me.say_hi()
+```
+
+- 🎓 Informatics Engineering Student
+- 📊 Interested in Data Science, Data Analysis, and Machine Learning
+- 🌱 Currently deepening my skills in Advanced Data Analysis & ML
+- 🤝 Open to collaborating on Data Science / ML projects
+- 📍 Based in Indonesia
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=python,laravel,html,css,js,php" />
+
+**Data Science & Analytics**
+
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GeraldoAugusta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoAugusta&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldoAugusta&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldoAugusta&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 📈 **Data Analysis Dashboard** | Interactive dashboard for analyzing business and sales performance |
+| 🤖 **Machine Learning Project** | Predictive model development using Python and Scikit-Learn |
+| 🎨 **Data Visualization Project** | Transforming raw datasets into meaningful visual insights |
+| 🌐 **Web Development Project** | Responsive and user-friendly web application development |
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/GeraldoAugusta">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 <a href="https://linkedin.com/in/geraldoaugusta">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="mailto:geraldonyoman14@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
 
----
+</div>
 
-<p align="center">
-✨ "Turning Data Into Insights and Ideas Into Reality" ✨
-</p>
+<br/>
+
+<div align="center">
+
+### ✨ "Turning Data Into Insights and Ideas Into Reality" ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+
+</div>
