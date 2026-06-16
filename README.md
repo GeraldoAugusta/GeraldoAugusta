@@ -1,17 +1,128 @@
-<div align="center">
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a14"/>
+      <stop offset="50%" stop-color="#0d0d1f"/>
+      <stop offset="100%" stop-color="#0a0a14"/>
+    </linearGradient>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Geraldo%20Augusta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20Informatics%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00c8"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
 
-<a href="https://github.com/GeraldoAugusta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+Enthusiast;Machine+Learning+Explorer;Informatics+Engineering+Student;Turning+Data+Into+Insights+%E2%9C%A8" alt="Typing SVG" />
-</a>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<br/>
+    <filter id="strongGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<img src="https://komarev.com/ghpvc/?username=GeraldoAugusta&label=Profile%20Views&color=8b5cf6&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/GeraldoAugusta?label=Followers&style=flat&color=8b5cf6" alt="Followers"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+    </pattern>
 
-</div>
+    <radialGradient id="scanGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="280" fill="url(#scanGlow)"/>
+
+  <!-- Animated scan line -->
+  <rect x="0" y="0" width="1200" height="3" fill="#00e5ff" opacity="0.6">
+    <animate attributeName="y" values="0;280;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="60" r="2" fill="#ff00c8">
+    <animate attributeName="cy" values="60;220;60" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="40" r="2.5" fill="#00e5ff">
+    <animate attributeName="cy" values="40;240;40" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="220" r="2" fill="#8b5cf6">
+    <animate attributeName="cy" values="220;50;220" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="230" r="1.8" fill="#00e5ff">
+    <animate attributeName="cy" values="230;30;230" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Corner brackets (terminal/HUD style) -->
+  <g stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M 30 30 L 30 60 M 30 30 L 60 30"/>
+    <path d="M 1170 30 L 1170 60 M 1170 30 L 1140 30"/>
+    <path d="M 30 250 L 30 220 M 30 250 L 60 250"/>
+    <path d="M 1170 250 L 1170 220 M 1170 250 L 1140 250"/>
+  </g>
+
+  <!-- Glitch layers behind main text (red/cyan offset) -->
+  <text x="600" y="118" font-family="'Courier New', monospace" font-size="56" font-weight="700"
+        text-anchor="middle" fill="#ff00c8" opacity="0.5">
+    GERALDO AUGUSTA
+    <animate attributeName="x" values="600;598;603;600" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="118" font-family="'Courier New', monospace" font-size="56" font-weight="700"
+        text-anchor="middle" fill="#00e5ff" opacity="0.5">
+    GERALDO AUGUSTA
+    <animate attributeName="x" values="600;603;597;600" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main title with neon glow -->
+  <text x="600" y="118" font-family="'Courier New', monospace" font-size="56" font-weight="700"
+        text-anchor="middle" fill="#ffffff" filter="url(#strongGlow)">
+    GERALDO AUGUSTA
+    <animate attributeName="opacity" values="1;0.85;1;1;0.7;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="118" font-family="'Courier New', monospace" font-size="56" font-weight="700"
+        text-anchor="middle" fill="url(#neonPurple)" opacity="0.9">
+    GERALDO AUGUSTA
+  </text>
+
+  <!-- Underline accent -->
+  <rect x="350" y="145" width="500" height="2" fill="url(#neonPurple)" filter="url(#glow)">
+    <animate attributeName="width" values="0;500;500" dur="1.5s" fill="freeze"/>
+  </rect>
+
+  <!-- Subtitle with typing cursor feel -->
+  <text x="600" y="190" font-family="'Courier New', monospace" font-size="22" font-weight="500"
+        text-anchor="middle" fill="#00e5ff" filter="url(#glow)">
+    &gt; Data Science Enthusiast | ML Explorer | Informatics Student_
+    <animate attributeName="opacity" values="1;1;0;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Tag chips -->
+  <g font-family="'Courier New', monospace" font-size="13" font-weight="600">
+    <rect x="430" y="215" width="90" height="28" rx="14" fill="none" stroke="#ff00c8" stroke-width="1.5"/>
+    <text x="475" y="234" text-anchor="middle" fill="#ff00c8">PYTHON</text>
+
+    <rect x="535" y="215" width="60" height="28" rx="14" fill="none" stroke="#8b5cf6" stroke-width="1.5"/>
+    <text x="565" y="234" text-anchor="middle" fill="#8b5cf6">ML</text>
+
+    <rect x="610" y="215" width="160" height="28" rx="14" fill="none" stroke="#00e5ff" stroke-width="1.5"/>
+    <text x="690" y="234" text-anchor="middle" fill="#00e5ff">DATA ANALYSIS</text>
+  </g>
+</svg>
 
 <br/>
 
